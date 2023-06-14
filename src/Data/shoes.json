@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "product": "MICHAEL MICHAEL KORS",
+    "productDesc": "Parker Leather T-Strap Sandal",
+    "path": "https://michaelkors.scene7.com/is/image/MichaelKors/40S3PKFS1L-1999_5?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90",
+    "productPrice": "20,000"
+  },
+  {
+    "id": 2,
+    "product": "MICHAEL MICHAEL KORS",
+    "productDesc": "Issi Embellished Leather Flatform Sandal",
+    "path": "https://michaelkors.scene7.com/is/image/MichaelKors/40S3ISFS1L-0001_5?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90",
+    "productPrice": "28,000"
+  },
+  {
+    "id": 3,
+    "product": "MICHAEL MICHAEL KORS",
+    "productDesc": "Cary Leather Wedge Sandal",
+    "path": "https://michaelkors.scene7.com/is/image/MichaelKors/40S3CYMS1L-0230_2?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90",
+    "productPrice": "20,000"
+  },
+  {
+    "id": 4,
+    "product": "MICHAEL MICHAEL KORS",
+    "productDesc": "Martina Leather Peep-Toe Platform Pump",
+    "path": "https://michaelkors.scene7.com/is/image/MichaelKors/40S3MTHP1L-6670_1?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90",
+    "productPrice": "29,000"
+  }
+]

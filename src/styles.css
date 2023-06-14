@@ -1,0 +1,122 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.nav-item {
+  font-size: 13px;
+  letter-spacing: 0.045em;
+  padding: 13px;
+  font-family: Kors Sans Medium, Arial, sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  color: #000;
+  border-bottom: 1px solid;
+  border-color: #0000003c transparent;
+}
+.logo {
+  width: 170px;
+  height: 100px;
+  margin-left: 670px;
+  margin-bottom: -30px;
+}
+.card {
+  width: 300px;
+  border-radius: 0;
+}
+.custom-btn-add {
+  margin-left: -17px;
+  margin-top: -1.3rem;
+  position: relative;
+}
+.custom-btn-remove {
+  margin-left: 200px;
+  margin-top: -5.6rem;
+  position: relative;
+}
+.count {
+  margin-top: -1rem;
+  position: relative;
+  margin-left: 50px;
+}
+.border {
+  width: 257px;
+  height: 30px;
+  background-color: rgba(125, 141, 148, 0.752);
+  border-top: none;
+}
+.card-title,
+p,
+pre {
+  font-family: Kors Sans Medium, Arial, sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.045rem;
+  font-weight: lighter !important;
+}
+.hoverImage {
+  width: 650px;
+}
+.designStory {
+  border: none;
+  background: none;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  font-size: 25px;
+}
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+.add-to-bag {
+  background: #000;
+  color: #fff;
+  border: 1px solid transparent;
+  font-family: Kors Sans Medium, Arial, sans-serif;
+  font-size: 0.75rem;
+  padding: 10px;
+  width: 250px;
+  margin-left: 10px;
+  letter-spacing: 0.2rem;
+}
+.handbags {
+  font-family: Kors Sans lighter, Arial, sans-serif;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: 0.4rem;
+}
+.filter {
+  border: none !important;
+  font-size: 12px;
+  letter-spacing: 0.2rem;
+  outline: none !important;
+}
+.carousel-container {
+  width: 700px;
+}
+.caption {
+  font-family: Kors Sans lighter, Arial, sans-serif;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: 0.4rem;
+}

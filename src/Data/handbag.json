@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "product": "MICHAEL MICHAEL KORS",
+    "productDesc": "Parker Medium Striped Straw and Leather Crossbody Bag",
+    "path": "https://michaelkors.scene7.com/is/image/MichaelKors/32S3S7PC8W-0096_4?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90",
+    "productPrice": "44,000"
+  },
+
+  {
+    "id": 2,
+    "product": "MICHAEL MICHAEL KORS",
+    "productDesc": "Parker Medium Striped Straw and Leather Crossbody Bag",
+    "path": "https://michaelkors.scene7.com/is/image/MichaelKors/32S3G9HC1L-1999_4?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90",
+    "productPrice": "25,000"
+  },
+  {
+    "id": 3,
+    "product": "MICHAEL MICHAEL KORS",
+    "productDesc": "Slater Extra-Small Pebbled Leather Sling Pack",
+    "path": "https://michaelkors.scene7.com/is/image/MichaelKors/30S2G04M1L-0230_4?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90",
+    "productPrice": "28,000"
+  },
+  {
+    "id": 4,
+    "product": "MICHAEL MICHAEL KORS",
+    "productDesc": "Hamilton Legacy Extra-Small Leather Belted Satchel",
+    "path": "https://michaelkors.scene7.com/is/image/MichaelKors/32S3G9HC0L-0230_4?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90",
+    "productPrice": "44,000"
+  }
+]
